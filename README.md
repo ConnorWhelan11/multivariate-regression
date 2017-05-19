@@ -11,6 +11,6 @@ autoreconf -iv
 ### Running the program
 ```
 [cpf37@fishercat mpi]$ ./main
-[cpf37@fishercat mpi]$ y = (0.080604)*x0 + (0.042525)*x1 + (0.018824)*x2 + error
+y = (0.080604)*x0 + (0.042525)*x1 + (0.018824)*x2 + error
 
 ```
