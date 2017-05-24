@@ -45,6 +45,3 @@ Attribute Information:
 
 ### Multivariate Regressin to predict Auto MPG
 The goal is to solve the Ax=b problem for the vector of coefficients x. My implentation does so through QR factorization of matrix A into the multiplication of an orthonormal matrix Q and upper triangular matrix R.
-/begin{equation*}
-x^2
-/end{equation*}
