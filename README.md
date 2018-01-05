@@ -3,8 +3,8 @@
 ### Building the code
 To build the code do as follows
 ```sh
-git clone https://github.com/unh-hpc/project-1-0800fc577294c34e0b28ad2839435945.git
-cd project-1-0800fc577294c34e0b28ad2839435945
+git clone https://github.com/ConnorWhelan11/multivariate-regression.git
+cd multivariate-regression
 autoreconf -iv
 ./configure
 ```
